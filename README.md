@@ -4,7 +4,7 @@
 
 ## 📸 Demo
 
-![demo](https://github.com/udham2511/paint-3d/blob/assets/images/demo.jpg)
+![demo](https://github.com/udham2511/paint-3d/blob/main/assets/images/demo.jpg)
 
 ## 🚀 Features
 - Real-time camera input and hand tracking (21 keypoints)
